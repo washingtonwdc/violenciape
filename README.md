@@ -34,7 +34,7 @@ Este projeto é uma integração de um dashboard do Power BI que exibe um mapa d
 </head>
 <body>
     <div class="container">
-        <h1>Power BI Dashboard Integration</h1>
+        <h1>Mapa de violência do estado de Pernambuco</h1>
         <iframe 
             class="dashboard-frame" 
             src="https://app.powerbi.com/view?r=eyJrIjoiNTQ4Y2Y1ZDgtYWJmYi00ODZjLWJhNmYtNDg0NDMxNWYwNjNiIiwidCI6Ijk3ZjdhNzBhLTQwMTEtNDU0NC04MDRmLWQwNjcxZmMyYWFlOSIsImMiOjl9" 
